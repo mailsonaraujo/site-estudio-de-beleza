@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.slide {
+    position: absolute;
+    transition: opacity .5s ease-in;
+  }
+  
+  .slide + .slide { opacity: 0; }
+
+  .slide {
+    width: min(100vw,480px);
+  }
