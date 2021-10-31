@@ -183,7 +183,7 @@ h2::after {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .galeria {
